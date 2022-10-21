@@ -16,6 +16,3 @@ Get Latest News Headlines
 Get Weather Report
 Get Trending Movies
 Get Random Jokes
-Get Random Advice
-what's New
-go to pull request
